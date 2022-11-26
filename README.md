@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on Front-End Developmnet
-- 🌱 I’m currently learning React.js
-- 🤔 I’m looking for help with Full-Stack Development Projects
-- 📫 How to reach me: abhinav07c@gmail.com
+- 🔭 I’m currently working on Front-End Developmnet.
+- 🌱 I’m currently learning React.js.
+- 🤔 I’m looking for help with Git/GitHub and Full-Stack Projects.
+- 📫 How to reach me: abhinav07c@gmail.com.
 
 
