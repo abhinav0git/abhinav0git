@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student currentely pursuing my Bachelors Degree in Inforamtion Technologies.
+I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies.
 <!--
 **abhinav0git/abhinav0git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
