@@ -37,6 +37,8 @@ My name is Abhinav and I'm a college student currentely pursuing my Bachelors De
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=PalletShallet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+![](https://komarev.com/ghpvc/?username=abhinav0git)
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
