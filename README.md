@@ -2,7 +2,7 @@
 
 My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies. You can find me on [![LinkedIn][3.2]][3].
 - 🔭 I’m currently working on Front-End Developmnet.
-- 🌱 I’m currently learning "How to centre a Div".
+- 🌱 Currently learning "How to centre a Div".
 - 🤔 I’m looking for help with KaboomJs.
 - 📫 How to reach me: abhinav07c@gmail.com.
 
