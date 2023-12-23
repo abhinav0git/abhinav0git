@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
-My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies. You can find me on [![LinkedIn][3.2]][3].
+My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies.
+You can find me on [![LinkedIn][3.2]][3].
 - 🔭 I’m currently working on Front-End Developmnet.
 - 🌱 Currently learning "How to centre a Div".
 - 🤔 I’m looking for help with KaboomJs.
