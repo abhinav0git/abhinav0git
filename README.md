@@ -23,20 +23,8 @@ You can find me on [![LinkedIn][3.2]][3].
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhinav0git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0git&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/abhinav0git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav0git&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
-
-<a href="https://github.com/abhinav0git/AushadHubFrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=AushadHubFrontEnd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/abhinav0git/PalletShallet" style="padding:2rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=PalletShallet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 ![](https://komarev.com/ghpvc/?username=abhinav0git)
 
