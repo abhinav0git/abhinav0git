@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies.
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][3.21]][3]
 - 🔭 I’m currently working on Back-End Development.
 - 🌱 Currently learning "How to centre a Div".
 - 🤔 I’m looking for help with KaboomJs.
@@ -38,6 +38,7 @@ You can find me on [![LinkedIn][3.2]][3].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.21]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (Another LinkedIn icon)
 
 
 <!-- links to your social media accounts -->
