@@ -1,12 +1,12 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>🤠
 
-My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies.
-You can find me on [![LinkedIn][3.21]][3]
-- 🔭 I’m currently working on Back-End Development.
-- 🌱 Currently learning "How to centre a Div".
-- 🤔 I’m looking for help with KaboomJs.
+My name is Abhinav and I'm a Software Engineer currently engaging myself in tech as much as I can with a job on the side. </br>
+You can find me on </br>
+[![LinkedIn][3.21]][3] [![Twitter][1.1]][1]
+- 🔭 I’m currently working on Next.js & Back-End Development.
+- 😶‍🌫️ Currently learning "How to center a Div" and focusing more on the depth of backend via Node.js and Flask (FastAPI too).
+- 🤔 I’m looking for help with Design (more UX-based) and Next.js.
 - 📫 How to reach me: abhinav07c@gmail.com.
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=#00599C)
@@ -30,7 +30,7 @@ You can find me on [![LinkedIn][3.21]][3]
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
@@ -43,6 +43,7 @@ You can find me on [![LinkedIn][3.21]][3]
 
 <!-- links to your social media accounts -->
 
+[1]: https://twitter.com/abhinav0dev
 [2]: https://github.com/abhinav0git
 [3]: https://www.linkedin.com/in/abhinav07c/
 
